@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de desenvolvimento de software, este é meu repositório para estudo e projetos, atualmento estou estudando o Node, React e TypeScript</p>
+<p align="left">Estudante de desenvolvimento de software, este é meu repositório para estudo e projetos, atualmento estou estudando o Node, React e C#</p>
 
 ###
 
@@ -30,6 +30,10 @@
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
